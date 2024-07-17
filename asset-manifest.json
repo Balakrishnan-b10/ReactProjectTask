@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.944d8bcc.css",
+    "main.js": "/static/js/main.081383cf.js",
+    "static/js/453.f2f80177.chunk.js": "/static/js/453.f2f80177.chunk.js",
+    "static/media/pexels-artempodrez-8986041.jpg": "/static/media/pexels-artempodrez-8986041.2e22dfbc75bb0c246bbe.jpg",
+    "static/media/oil filter.jpg": "/static/media/oil filter.a6dcc6ed94509ade2f44.jpg",
+    "static/media/front bottom.jpg": "/static/media/front bottom.3e5a2ae63e3bb6c163d1.jpg",
+    "static/media/engine work.jpg": "/static/media/engine work.0b3e74e9f630d7e5be7b.jpg",
+    "static/media/hook.jpg": "/static/media/hook.3ffa3e49180ac3f578fa.jpg",
+    "static/media/pexels-olly-3807120.jpg": "/static/media/pexels-olly-3807120.2858efe93a70124361ae.jpg",
+    "static/media/battery checking.jpg": "/static/media/battery checking.1aa6014296e6b669343f.jpg",
+    "static/media/pexels-olly-3807811.jpg": "/static/media/pexels-olly-3807811.f068e27cbdd8dd63c7f2.jpg",
+    "static/media/wheel balance.jpg": "/static/media/wheel balance.78ce8212a4d596cf9f3d.jpg",
+    "static/media/pexels-olly-3855646.jpg": "/static/media/pexels-olly-3855646.1d143d0594cc0cdba198.jpg",
+    "static/media/pexels-olly-3855645.jpg": "/static/media/pexels-olly-3855645.4b9b779f5b3750db8a5b.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.944d8bcc.css.map": "/static/css/main.944d8bcc.css.map",
+    "main.081383cf.js.map": "/static/js/main.081383cf.js.map",
+    "453.f2f80177.chunk.js.map": "/static/js/453.f2f80177.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.944d8bcc.css",
+    "static/js/main.081383cf.js"
+  ]
+}
